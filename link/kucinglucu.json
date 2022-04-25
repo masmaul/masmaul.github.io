@@ -1,0 +1,57 @@
+{
+  "Ads": [
+    {
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "IRON",
+
+      "main_ads_banner"           : "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial"      : "ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob"          : "YOUR_PLACEMENT_ID",
+
+      "backup_ads_banner"         : "qwerty1234",
+      "backup_ads_intertitial"    : "qwerty1234",
+      
+      "initialize_sdk"            : "",
+      "initialize_sdk_backup_ads" : "",
+
+      "interval_intertitial"      : 5,
+
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Nature",
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    }
+  ]
+}

@@ -4,27 +4,39 @@
     {
       "id":1,
       "title":"Ludo King",
-      "image":"https://masmaul.github.io/foto/01.png",
-      "link":"https://play.google.com/store/apps/details?id=com.masmaul.belyybeto"
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     },
     {
       "id":2,
       "title":"Homescapes",
-      "image":"https://masmaul.github.io/foto/02.png",
-      "link":"https://play.google.com/store/apps/details?id=com.masmaul.kartunsayur"
+      "image":"file:///android_asset/home.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     },
     {
       "id":3,
       "title":"Minecraft",
-      "image":"https://masmaul.github.io/foto/03.png",
-      "link":"https://play.google.com/store/apps/details?id=com.masmaul.happyfamily"
+      "image":"file:///android_asset/mine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     },
     {
       "id":4,
       "title":"Sonic the Hedgehog™ Classic",
-      "image":"https://masmaul.github.io/foto/04.png",
-      "link":"https://play.google.com/store/apps/details?id=com.masmaul.coloringboboiboy"
+      "image":"file:///android_asset/sonic.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
     },
+    {
+      "id":5,
+      "title":"War Machines: Best Free Online War & Military Game",
+      "image":"file:///android_asset/machine.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+      "id":6,
+      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
+      "image":"file:///android_asset/heli.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+    }
   ]
 
 }

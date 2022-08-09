@@ -1,32 +1,36 @@
 {
   "Ads": [
-      {
-      "more_app"                    : "1",
-      "select_main_ads"             : "ADMOB",
-      "select_backup_ads"           : "APPLOVIN-D",
+    {
+      "more_app"                  : "1",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-D",
 
-      "main_ads_banner"             : "ca-app-pub-7419445118914997/6434676443",
-      "main_ads_intertitial"        : "ca-app-pub-7419445118914997/4055925110",
-      "main_ads_native"             : "ca-app-pub-7419445118914997/1182349768",
+      "main_ads_banner"           : "ca-app-pub-7419445118914997/6434676443",
+      "main_ads_intertitial"      : "ca-app-pub-7419445118914997/4055925110",
+      "main_ads_native"           : "ca-app-pub-7419445118914997/1182349768",
 
-      "backup_ads_banner"           : "db4d5e8718b97d78",
-      "backup_ads_intertitial"      : "518cd97722c60b52",
-      "backup_ads_native"           : "518cd97722c60b52",
+      "open_ads"                  : "ca-app-pub-7419445118914997/3864353425",
 
-      "interval_intertitial": 5,
+      "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
+      "backup_ads_intertitial"    : "657d9cf1d627b1d3",
+      "backup_ads_native"         : "dc8b984e746a42b8",
+      
+      "initialize_sdk"            : "",
+      "initialize_sdk_backup_ads" : "",
 
-      "initialize_sdk"              : "107355779",
-      "initialize_sdk_backup_ads"   : "107355779",
+      "interval_intertitial"      : 5,
 
-      "high_paying_keyword_1"       : "",
-      "high_paying_keyword_2"       : "",
-      "high_paying_keyword_3"       : "",
-      "high_paying_keyword_4"       : "",
-      "high_paying_keyword_5"       : "",
+      "high_paying_keyword_1"     : "",
+      "high_paying_keyword_2"     : "",
+      "high_paying_keyword_3"     : "",
+      "high_paying_keyword_4"     : "",
+      "high_paying_keyword_5"     : "",
+
+      "warna_native"              : "#05eccc68",
+      "line_atau_polos"           : "0",
+      "size_native"               : "2",
 
       "status_app": "0",
       "link_redirect": "https://"
       }
-   ]
-
-}
+  ]
